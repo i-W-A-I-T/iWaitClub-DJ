@@ -1,0 +1,12 @@
+Logo = './img/blair_nyx.jpg'
+DJ_name = 'Blair NyX'
+Preferred_name = 'Blair NyX'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['House']
+Secondary = ['Phonk', 'Bass house']
+
+[Social]
+Twitter = 'https://twitter.com/Cha0ticReaper'
