@@ -1,0 +1,12 @@
+Logo = './img/conducted_moon.png'
+DJ_name = 'Conducted Moon'
+Preferred_name = 'Moon'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Hardcore']
+Secondary = ['Dubstep', 'Frenchcore', 'Techno']
+
+[Social]
+Twitter = ''
