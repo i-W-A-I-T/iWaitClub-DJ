@@ -1,0 +1,12 @@
+Logo = './img/dj_foxy.png'
+DJ_name = 'DJ Foxy'
+Preferred_name = 'Foxy'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Hardstyle', 'Hardcore']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/DJFoxy_Official'
