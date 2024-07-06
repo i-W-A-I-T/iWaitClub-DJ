@@ -1,0 +1,12 @@
+Logo = './img/dj_airen_wolf.png'
+DJ_name = 'DJ Airen Wolf'
+Preferred_name = 'DJ Airen Wolf'
+Pronouns = 'Aire/n'
+Discord = ''
+
+[Genres]
+Primary = ['Hard House']
+Secondary = ['Hard Techno','Trance','Hardstyle', 'Electro House']
+
+[Social]
+Twitter = ''
