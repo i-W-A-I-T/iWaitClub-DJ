@@ -1,0 +1,12 @@
+Logo = './img/baz.png'
+DJ_name = 'Baz'
+Preferred_name = 'Baz'
+Pronouns = 'He/Roo'
+Discord = ''
+
+[Genres]
+Primary = ['Hyperpop', 'Tearout']
+Secondary = ['Riddim', 'Phonk', 'EDM']
+
+[Social]
+Twitter = ''
