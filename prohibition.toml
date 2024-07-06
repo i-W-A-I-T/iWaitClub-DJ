@@ -1,0 +1,12 @@
+Logo = './img/prohibition.png'
+DJ_name = 'Prohibition'
+Preferred_name = 'Chester'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Electro Swing']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/ChesterIsBlue'
