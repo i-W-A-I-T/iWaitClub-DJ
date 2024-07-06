@@ -1,0 +1,12 @@
+Logo = './img/dj_meowtastic.png'
+DJ_name = 'DJ Meowtastic'
+Preferred_name = 'Meowtastic'
+Pronouns = 'He/She Genderfluid'
+Discord = ''
+
+[Genres]
+Primary = ['Dubstep', 'Trap', 'DnB']
+Secondary = ['Bass House', 'Phonk']
+
+[Social]
+Twitter = 'https://twitter.com/dj_meowtastic'
