@@ -1,0 +1,12 @@
+Logo = './img/dj_amyotte.png'
+DJ_name = 'DJ Amyotte'
+Preferred_name = 'DJ Amyotte'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['House', 'Top 40', 'Mashup']
+Secondary = ['Baseline', 'UK Bass']
+
+[Social]
+Twitter = 'https://twitter.com/DJxAmyotte'
