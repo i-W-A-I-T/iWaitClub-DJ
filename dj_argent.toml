@@ -1,0 +1,12 @@
+Logo = './img/dj_argent.png'
+DJ_name = 'DJ ARGENT'
+Preferred_name = 'Argent'
+Pronouns = 'He/They'
+Discord = ''
+
+[Genres]
+Primary = ['Bass House']
+Secondary = ['Electro House', 'Tech House', 'DnB', 'Electro Swing', 'Speed house']
+
+[Social]
+Twitter = 'https://twitter.com/DJArgentPup'
