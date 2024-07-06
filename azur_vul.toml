@@ -1,0 +1,12 @@
+Logo = './img/azur_vul.png'
+DJ_name = 'AzurVul'
+Preferred_name = 'AzurVul'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Trance', 'Progressive']
+Secondary = ['Hard Dance', 'DnB', 'Mainstage']
+
+[Social]
+Twitter = 'https://twitter.com/AzurVul'
