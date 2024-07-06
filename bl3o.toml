@@ -1,0 +1,12 @@
+Logo = './img/bl3o.png'
+DJ_name = 'BL3O'
+Preferred_name = 'Bleo'
+Pronouns = 'He/They'
+Discord = ''
+
+[Genres]
+Primary = ['Rawstyle', 'Hardcore', 'Uptempo']
+Secondary = ['Terrorcore', 'Speedcore']
+
+[Social]
+Twitter = 'https://twitter.com/BLEO__'
