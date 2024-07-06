@@ -1,0 +1,12 @@
+Logo = './img/beam_flare.png'
+DJ_name = 'BeamFlare'
+Preferred_name = 'Beam'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Progressive House', 'Progressive Trance']
+Secondary = ['Melodic House', 'Techno']
+
+[Social]
+Twitter = ''
