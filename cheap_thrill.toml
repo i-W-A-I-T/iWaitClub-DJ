@@ -1,0 +1,12 @@
+Logo = './img/cheap_thrill.png'
+DJ_name = 'Cheap Thrill'
+Preferred_name = 'Cheap Thrill'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Dubstep', 'Tearout', 'Heavy Bass']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/chp_thrll'
