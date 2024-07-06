@@ -1,0 +1,12 @@
+Logo = './img/ash_darkfire.png'
+DJ_name = 'Ash Darkfire'
+Preferred_name = 'Ash Darkfire'
+Pronouns = 'He/They'
+Discord = ''
+
+[Genres]
+Primary = ['Progressive', 'Uplifting Trance']
+Secondary = ['Deep/Progressive House', 'Hardstyle', 'Hard Techno', 'Happy Hardcore']
+
+[Social]
+Twitter = 'https://twitter.com/Ash_Darkfire'
