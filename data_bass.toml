@@ -1,0 +1,12 @@
+Logo = './img/data_bass.png'
+DJ_name = 'DataBass'
+Preferred_name = 'DataBass'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['House']
+Secondary = ['Hardstyle',  'DnB', 'Techno']
+
+[Social]
+Twitter = ''
