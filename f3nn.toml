@@ -1,0 +1,12 @@
+Logo = './img/f3nn.png'
+DJ_name = 'F3NN'
+Preferred_name = 'Defqon'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Heavy Bass Music']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/DefqonSkunk'
