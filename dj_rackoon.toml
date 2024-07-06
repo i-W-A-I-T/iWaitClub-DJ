@@ -1,0 +1,12 @@
+Logo = './img/dj_rackoon.png'
+DJ_name = 'DJ Rackoon'
+Preferred_name = 'Rackoon'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Dubstep', 'Experimental Bass']
+Secondary = ['Techno', 'Hybrid Trap']
+
+[Social]
+Twitter = 'https://twitter.com/Dj_Rackoon'
