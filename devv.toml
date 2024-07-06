@@ -1,0 +1,12 @@
+Logo = './img/devv.png'
+DJ_name = 'Devv'
+Preferred_name = 'Devv'
+Pronouns = 'Yes'
+Discord = ''
+
+[Genres]
+Primary = ['Multigenre']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/Devv_RM'
