@@ -1,0 +1,12 @@
+Logo = './img/halfbit.png'
+DJ_name = '1/2 Bit'
+Preferred_name = '1/2 Bit'
+Pronouns = 'He/They'
+Discord = 'half_bit'
+
+[Genres]
+Primary = ['Multigenre/Mashups', 'Synthwave']
+Secondary = ['House', 'Trance', 'Techno']
+
+[Social]
+Twitter = 'https://twitter.com/HalfBit213'
