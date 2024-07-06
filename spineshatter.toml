@@ -1,0 +1,12 @@
+Logo = './img/spineshatter.png'
+DJ_name = 'SPINESHATTER'
+Preferred_name = 'Spine'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Riddim', 'Tearout']
+Secondary = ['Rawstyle', 'Uptempo', 'Hardstyle']
+
+[Social]
+Twitter = 'https://twitter.com/DJ_SPINESHATTER'
