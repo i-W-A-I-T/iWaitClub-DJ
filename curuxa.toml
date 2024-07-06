@@ -1,0 +1,12 @@
+Logo = './img/curuxa.png'
+DJ_name = 'Curuxa'
+Preferred_name = 'Curuxa'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Midtempo']
+Secondary = ['House', 'DnB']
+
+[Social]
+Twitter = 'https://twitter.com/CuruxaUK'
