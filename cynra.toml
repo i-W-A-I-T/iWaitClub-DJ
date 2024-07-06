@@ -1,0 +1,12 @@
+Logo = './img/cynra.png'
+DJ_name = 'Cynra'
+Preferred_name = 'Cynra'
+Pronouns = 'They/Them'
+Discord = ''
+
+[Genres]
+Primary = ['vocal', 'Uplifting Trance']
+Secondary = []
+
+[Social]
+Twitter = ''
