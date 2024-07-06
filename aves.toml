@@ -1,0 +1,12 @@
+Logo = './img/aves.png'
+DJ_name = 'Aves'
+Preferred_name = 'Aves'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Hard Dance', 'Trance']
+Secondary = ['Big Room']
+
+[Social]
+Twitter = 'https://twitter.com/DJ_Aves_'
