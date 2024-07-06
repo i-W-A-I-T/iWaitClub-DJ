@@ -1,0 +1,12 @@
+Logo = './img/artifaxx.png'
+DJ_name = 'Artifaxx'
+Preferred_name = 'Lilly'
+Pronouns = 'She/her'
+Discord = ''
+
+[Genres]
+Primary = ['Hardstyle', 'Rawphoric']
+Secondary = ['Any']
+
+[Social]
+Twitter = 'https://twitter.com/Dj_Artifaxx'
