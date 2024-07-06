@@ -1,0 +1,12 @@
+Logo = './img/dj_bubs.png'
+DJ_name = 'DJ Bubs'
+Preferred_name = 'Bubs'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['EDM']
+Secondary = []
+
+[Social]
+Twitter = ''
