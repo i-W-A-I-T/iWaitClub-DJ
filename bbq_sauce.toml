@@ -1,0 +1,12 @@
+Logo = './img/bbq_sauce.png'
+DJ_name = 'BBQ SAUCE'
+Preferred_name = 'BBQ'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Dubstep', 'DnB']
+Secondary = ['Techno', 'House']
+
+[Social]
+Twitter = ''
