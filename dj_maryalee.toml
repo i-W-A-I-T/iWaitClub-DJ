@@ -1,0 +1,12 @@
+Logo = './img/dj_maryalee.png'
+DJ_name = 'DJ Maryalee'
+Preferred_name = 'Maryalee'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['Genre-Fluid']
+Secondary = ['Any']
+
+[Social]
+Twitter = 'https://twitter.com/MaryaleeScarlet'
