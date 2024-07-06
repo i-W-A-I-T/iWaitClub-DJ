@@ -1,0 +1,12 @@
+Logo = './img/shizukavr.png'
+DJ_name = 'ShizukaVR'
+Preferred_name = 'Shizu'
+Pronouns = 'She/Her'
+Discord = 'shizukavr'
+
+[Genres]
+Primary = ['Dubstep', 'House', 'DnB']
+Secondary = []
+
+[Social]
+Twitter = ''

@@ -1,0 +1,12 @@
+Logo = './img/kale.png'
+DJ_name = 'Kale'
+Preferred_name = 'Kale'
+Pronouns = 'He/Him'
+Discord = 'Kaletail'
+
+[Genres]
+Primary = ['Tech House', 'Latin House']
+Secondary = ['Progressive House', 'Melodic House', 'Techno']
+
+[Social]
+Twitter = 'https://x.com/Kalethedeer'
