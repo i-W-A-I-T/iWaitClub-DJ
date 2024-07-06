@@ -1,0 +1,12 @@
+Logo = './img/violet_thunder.png'
+DJ_name = 'Violet Thunder'
+Preferred_name = 'Peach'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['DnB', 'Jungle', 'UKG', 'House']
+Secondary = ['Hard Techno', 'Tech House', 'Dance', 'Summer House']
+
+[Social]
+Twitter = ''
