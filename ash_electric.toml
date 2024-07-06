@@ -1,0 +1,12 @@
+Logo = './img/ash_electric.png'
+DJ_name = 'Ash Electric'
+Preferred_name = 'Ashlyn'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['Retro Electro']
+Secondary = ['Synthwave', 'Electro', 'Hardstyle']
+
+[Social]
+Twitter = 'https://twitter.com/itsashelectric'

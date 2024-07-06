@@ -2,7 +2,7 @@ Logo = './img/half_bit.png'
 DJ_name = '1/2 Bit'
 Preferred_name = '1/2 Bit'
 Pronouns = 'He/They'
-Discord = 'half_bit'
+Discord = ''
 
 [Genres]
 Primary = ['Multigenre/Mashups', 'Synthwave']
