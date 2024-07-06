@@ -1,0 +1,12 @@
+Logo = './img/deni_core.png'
+DJ_name = 'DeniCore'
+Preferred_name = 'Daniil'
+Pronouns = 'Hi'
+Discord = ''
+
+[Genres]
+Primary = ['Hardcore', 'Hardstyle', 'Happy Hardcore', 'Japan Hardcore']
+Secondary = ['Techno', 'DnB']
+
+[Social]
+Twitter = ''
