@@ -1,0 +1,12 @@
+Logo = './img/psy_clone.png'
+DJ_name = 'PSYClone'
+Preferred_name = 'Timmy'
+Pronouns = 'Mr'
+Discord = ''
+
+[Genres]
+Primary = ['Psytrance']
+Secondary = ['House', 'Techno', 'Dubstep', 'DnB', 'Eurodance']
+
+[Social]
+Twitter = 'https://twitter.com/DPsyclone'
