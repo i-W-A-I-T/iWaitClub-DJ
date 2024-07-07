@@ -1,0 +1,12 @@
+Logo = './img/eros.png'
+DJ_name = 'Eros'
+Preferred_name = 'Eros'
+Pronouns = 'He/They'
+Discord = ''
+
+[Genres]
+Primary = ['Dariacore', 'Hyperpop']
+Secondary = ['Bass House', 'Dubstep']
+
+[Social]
+Twitter = 'https://twitter.com/erossnepvrc'
