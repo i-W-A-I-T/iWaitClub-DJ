@@ -1,0 +1,12 @@
+Logo = './img/grrimm.png'
+DJ_name = 'Grrimm'
+Preferred_name = 'Grrimm'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Top 40', 'House']
+Secondary = ['Future House', 'Dance']
+
+[Social]
+Twitter = 'https://twitter.com/grrimm__'
