@@ -1,0 +1,12 @@
+Logo = './img/drac_0.png'
+DJ_name = 'DRAC-0'
+Preferred_name = 'Dracorean'
+Pronouns = 'She/They'
+Discord = ''
+
+[Genres]
+Primary = ['Chiptune']
+Secondary = ['House', 'DnB', 'All']
+
+[Social]
+Twitter = 'https://twitter.com/Dracorean'
