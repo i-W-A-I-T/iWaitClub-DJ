@@ -1,0 +1,12 @@
+Logo = './img/grimm_stone.png'
+DJ_name = 'Grimm Stone'
+Preferred_name = 'Grimm'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Electro Swing']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/Grimm_Stone_'
