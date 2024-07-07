@@ -1,0 +1,12 @@
+Logo = './img/goggles.png'
+DJ_name = 'Goggles'
+Preferred_name = 'Goggles'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['House', 'Dance', 'Mainstage']
+Secondary = []
+
+[Social]
+Twitter = ''
