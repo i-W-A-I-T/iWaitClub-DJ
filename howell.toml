@@ -1,0 +1,12 @@
+Logo = './img/howell.png'
+DJ_name = 'Howell'
+Preferred_name = 'Howell'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Electronica', 'Metal', 'Rap', 'Hip Hop']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/HowellThaBear'
