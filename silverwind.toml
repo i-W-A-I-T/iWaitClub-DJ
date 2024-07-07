@@ -1,0 +1,12 @@
+Logo = './img/silverwind.png'
+DJ_name = 'Silverwind'
+Preferred_name = 'Gale'
+Pronouns = 'They/Them'
+Discord = ''
+
+[Genres]
+Primary = ['Dubstep', 'House', 'Psywave']
+Secondary = ['Multi-Genre']
+
+[Social]
+Twitter = 'https://twitter.com/GaleDerg'
