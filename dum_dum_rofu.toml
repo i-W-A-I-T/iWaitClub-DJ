@@ -1,0 +1,12 @@
+Logo = './img/dum_dum_rofu.png'
+DJ_name = 'Dum Dum Rofu'
+Preferred_name = 'Dum Dum Rofu'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Dubstep', 'Trap']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/RofusWofus'
