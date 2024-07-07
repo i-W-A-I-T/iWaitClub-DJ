@@ -1,0 +1,12 @@
+Logo = './img/ekko.png'
+DJ_name = 'Ekko'
+Preferred_name = 'Ekko'
+Pronouns = 'They/Them'
+Discord = ''
+
+[Genres]
+Primary = ['Baile Funk', 'Moombahton', 'Jersey Club', 'Global Bass']
+Secondary = ['Bass House', 'Hardstyle', 'Trap']
+
+[Social]
+Twitter = 'https://twitter.com/ekkofox'
