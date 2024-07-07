@@ -1,0 +1,12 @@
+Logo = './img/dj_royalberry.png'
+DJ_name = 'DJ ROYALBERRY'
+Preferred_name = 'Game'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Hardstyle']
+Secondary = ['Metalstep', 'Deep Techno']
+
+[Social]
+Twitter = 'https://twitter.com/GameBigWolf'
