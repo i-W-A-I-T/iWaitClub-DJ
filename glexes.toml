@@ -1,0 +1,12 @@
+Logo = './img/glexes.png'
+DJ_name = 'Glexes'
+Preferred_name = 'Glexes'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Hard Dance', 'Bass House', 'EDM', 'Mainstage']
+Secondary = ['Any']
+
+[Social]
+Twitter = 'https://twitter.com/glexes'
