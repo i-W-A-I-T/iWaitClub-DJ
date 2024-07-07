@@ -1,0 +1,12 @@
+Logo = './img/goblin_mode.png'
+DJ_name = 'Goblin Mode'
+Preferred_name = 'Goblin'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['DnB', 'Jungle', 'Darksynth']
+Secondary = ['House', 'Psytrance', 'Future Funk']
+
+[Social]
+Twitter = 'https://twitter.com/goblinmodevr'
