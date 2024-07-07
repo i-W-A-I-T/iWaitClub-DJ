@@ -1,0 +1,12 @@
+Logo = './img/icedog.png'
+DJ_name = 'Icedog'
+Preferred_name = 'Frosty'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Hard Dance', 'Happy Hardcore', 'Jersey Club']
+Secondary = ['Footwork/Jungle', 'NXC (Nightcore)', 'Progressive House', 'Electro House', 'Hard Techno']
+
+[Social]
+Twitter = 'https://twitter.com/frostywoofs'
