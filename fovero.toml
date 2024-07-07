@@ -1,0 +1,12 @@
+Logo = './img/fovero.png'
+DJ_name = 'Fovero'
+Preferred_name = 'Fovero'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['Dubstep', 'DnB']
+Secondary = ['Hardstyle', 'House', 'Techno']
+
+[Social]
+Twitter = 'https://twitter.com/Fovero_'
