@@ -1,0 +1,12 @@
+Logo = './img/digital_feathers.png'
+DJ_name = 'DigitalFeathers'
+Preferred_name = 'Eldarath'
+Pronouns = 'He/Him/They'
+Discord = ''
+
+[Genres]
+Primary = ['House', 'Techno']
+Secondary = ['Synthwave', 'Chiptune', 'Vaporwave']
+
+[Social]
+Twitter = ''
