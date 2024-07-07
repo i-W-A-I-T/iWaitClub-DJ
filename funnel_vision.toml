@@ -1,0 +1,12 @@
+Logo = './img/funnel_vision.png'
+DJ_name = 'DJ FunnelVision'
+Preferred_name = 'FunnelVision'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['House']
+Secondary = ['DnB', 'Dance', 'Trance']
+
+[Social]
+Twitter = ''
