@@ -1,0 +1,12 @@
+Logo = './img/subverja.png'
+DJ_name = 'Subverja'
+Preferred_name = 'Eiko'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['DnB']
+Secondary = ['Hard Trance', 'Industrial', 'UK Garage/Bassline']
+
+[Social]
+Twitter = 'https://twitter.com/subverja'
