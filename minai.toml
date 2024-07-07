@@ -1,0 +1,12 @@
+Logo = './img/minai.png'
+DJ_name = 'Minai'
+Preferred_name = 'Minai'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['EDM']
+Secondary = ['Punk Rock', 'Pop Punk']
+
+[Social]
+Twitter = 'https://twitter.com/MiinaiMusic'
