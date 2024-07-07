@@ -1,0 +1,12 @@
+Logo = './img/dutch.png'
+DJ_name = 'Dutch'
+Preferred_name = 'Dutch'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Hardstyle']
+Secondary = ['uplifting trance']
+
+[Social]
+Twitter = 'https://twitter.com/DutchFoxNL'
