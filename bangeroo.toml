@@ -1,0 +1,12 @@
+Logo = './img/bangeroo.png'
+DJ_name = 'Bangeroo'
+Preferred_name = 'Bang'
+Pronouns = 'She/They'
+Discord = ''
+
+[Genres]
+Primary = ['House', 'Mashups', 'Electro']
+Secondary = ['Multigenre']
+
+[Social]
+Twitter = 'https://twitter.com/Fuskybutt'
