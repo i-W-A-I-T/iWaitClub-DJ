@@ -1,0 +1,12 @@
+Logo = './img/goggles.png'
+DJ_name = 'Goggs'
+Preferred_name = 'Goggs'
+Pronouns = 'He/Him/They'
+Discord = ''
+
+[Genres]
+Primary = ['Pop', 'Electro House', 'Liquid']
+Secondary = []
+
+[Social]
+Twitter = ''
