@@ -1,0 +1,12 @@
+Logo = './img/dj_electro.png'
+DJ_name = 'DJ_Electro'
+Preferred_name = 'Electro'
+Pronouns = 'Any'
+Discord = ''
+
+[Genres]
+Primary = ['Any']
+Secondary = ['Frenchcore', 'Happy Hardcore']
+
+[Social]
+Twitter = 'https://twitter.com/2002_arts'
