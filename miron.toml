@@ -1,0 +1,12 @@
+Logo = './img/miron.png'
+DJ_name = 'Miron'
+Preferred_name = 'Miron'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Rawstyle', 'Xtra Raw']
+Secondary = ['Uptempo', 'DnB', 'Dubstep']
+
+[Social]
+Twitter = 'https://twitter.com/fluffymiron'
