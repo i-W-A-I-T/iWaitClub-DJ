@@ -1,0 +1,12 @@
+Logo = './img/dj_tsiran.png'
+DJ_name = 'DJ Tsiran'
+Preferred_name = 'Farin'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Liquid DnB']
+Secondary = ['Progressive House', 'Breakbeat']
+
+[Social]
+Twitter = ''

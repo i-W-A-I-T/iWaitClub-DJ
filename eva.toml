@@ -1,0 +1,12 @@
+Logo = './img/eva.png'
+DJ_name = 'Eva'
+Preferred_name = 'Eva Aberra'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['House', 'EDM', 'Dubstep']
+Secondary = []
+
+[Social]
+Twitter = ''
