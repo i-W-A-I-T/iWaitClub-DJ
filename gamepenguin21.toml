@@ -1,0 +1,12 @@
+Logo = './img/gamepenguin21.png'
+DJ_name = 'Gamepenguin21'
+Preferred_name = 'Gamepenguin21'
+Pronouns = 'He/She/They'
+Discord = ''
+
+[Genres]
+Primary = ['DnB', 'Chiptune', 'Dubstep']
+Secondary = ['House', 'Liquid DnB', 'Breakcore', 'Techno', 'Rock']
+
+[Social]
+Twitter = 'https://twitter.com/gamepenguin21'
