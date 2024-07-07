@@ -1,0 +1,12 @@
+Logo = './img/gabasso.jpg'
+DJ_name = 'Gabasso'
+Preferred_name = 'Gab'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Big Room']
+Secondary = ['Techno', 'Hardstyle']
+
+[Social]
+Twitter = 'https://twitter.com/gabassodj'
