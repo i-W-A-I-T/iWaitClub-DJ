@@ -1,0 +1,12 @@
+Logo = './img/ff_01.png'
+DJ_name = 'FF 01'
+Preferred_name = 'Flywheel'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['Metalcore', 'Electronicore']
+Secondary = ['DnB', 'Drumstep']
+
+[Social]
+Twitter = 'https://twitter.com/FlywheelArt'
