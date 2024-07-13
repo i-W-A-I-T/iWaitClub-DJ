@@ -1,0 +1,12 @@
+Logo = './img/dj_otterspace.png'
+DJ_name = 'DJ Otterspace'
+Preferred_name = 'Jaxson'
+Pronouns = 'He/Him/She'
+Discord = ''
+
+[Genres]
+Primary = ['New Disco', 'Top 40', 'House']
+Secondary = ['Emo Trap']
+
+[Social]
+Twitter = ''
