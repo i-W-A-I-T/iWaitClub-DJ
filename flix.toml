@@ -1,0 +1,12 @@
+Logo = './img/flix.png'
+DJ_name = 'FliX'
+Preferred_name = 'FliX'
+Pronouns = 'She/Them'
+Discord = ''
+
+[Genres]
+Primary = ['Metal']
+Secondary = ['Dariacore', 'Hyperpop', 'Techno']
+
+[Social]
+Twitter = 'https://twitter.com/flixdog'
