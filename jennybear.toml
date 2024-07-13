@@ -1,0 +1,12 @@
+Logo = './img/jennybear.png'
+DJ_name = 'Jenny Bear'
+Preferred_name = 'Jenny Bear'
+Pronouns = 'She/Her/Bear'
+Discord = ''
+
+[Genres]
+Primary = ['DnB']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/Chanrom2'
