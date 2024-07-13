@@ -1,0 +1,12 @@
+Logo = './img/hyper_circuit.png'
+DJ_name = 'Hyper Circuit'
+Preferred_name = 'Hyper'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['House']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/HyperCircuitArt'
