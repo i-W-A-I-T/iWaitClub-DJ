@@ -1,0 +1,12 @@
+Logo = './img/kaiote.png'
+DJ_name = 'KAIØTE'
+Preferred_name = 'Koda'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Dubstep', 'Riddim']
+Secondary = ['Melodic Bass', 'Deep Bass']
+
+[Social]
+Twitter = 'https://twitter.com/_KAIOTE_'
