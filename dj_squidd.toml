@@ -1,0 +1,12 @@
+Logo = './img/dj_squidd.png'
+DJ_name = 'DJ SQUIDD'
+Preferred_name = 'Squiddo'
+Pronouns = 'They/Them'
+Discord = ''
+
+[Genres]
+Primary = ['DnB']
+Secondary = ['House']
+
+[Social]
+Twitter = 'https://twitter.com/squiddyOtter'
