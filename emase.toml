@@ -1,0 +1,12 @@
+Logo = './img/emase.png'
+DJ_name = 'EMASE'
+Preferred_name = 'Lime'
+Pronouns = 'She/They'
+Discord = ''
+
+[Genres]
+Primary = ['DnB', 'Hardstyle']
+Secondary = ['Dubstep']
+
+[Social]
+Twitter = 'https://twitter.com/fruitpup'
