@@ -1,0 +1,12 @@
+Logo = './img/beeb.png'
+DJ_name = 'beeb'
+Preferred_name = 'Loki'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['Trance', 'Techno', 'Organic House']
+Secondary = ['Any']
+
+[Social]
+Twitter = ''
