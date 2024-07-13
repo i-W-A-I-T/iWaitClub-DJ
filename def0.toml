@@ -1,0 +1,12 @@
+Logo = './img/def0.png'
+DJ_name = 'Def0'
+Preferred_name = 'Danny'
+Pronouns = 'He/Him/They/Them'
+Discord = ''
+
+[Genres]
+Primary = ['Tearout Dubstep', 'Bass House']
+Secondary = ['DnB', 'Hyperpop']
+
+[Social]
+Twitter = ''
