@@ -1,0 +1,12 @@
+Logo = './img/loprov.png'
+DJ_name = 'Loprov'
+Preferred_name = 'Loprov'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Genrefluid']
+Secondary = ['Any']
+
+[Social]
+Twitter = 'https://twitter.com/loprov'
