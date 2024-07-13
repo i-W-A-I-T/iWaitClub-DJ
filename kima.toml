@@ -1,0 +1,12 @@
+Logo = './img/kima.png'
+DJ_name = 'Kima'
+Preferred_name = 'Kima'
+Pronouns = 'They/Them'
+Discord = ''
+
+[Genres]
+Primary = ['Trance']
+Secondary = ['Any']
+
+[Social]
+Twitter = 'https://twitter.com/justkimathings'
