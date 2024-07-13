@@ -1,0 +1,12 @@
+Logo = './img/klavax.png'
+DJ_name = 'Klavax'
+Preferred_name = 'Klavax'
+Pronouns = 'They/Them'
+Discord = ''
+
+[Genres]
+Primary = ['House', 'Electro Swing', 'DnB']
+Secondary = ['Future Rave', 'Hardstyle', 'Jumpstyle', 'Techno']
+
+[Social]
+Twitter = 'https://twitter.com/theKlavax'
