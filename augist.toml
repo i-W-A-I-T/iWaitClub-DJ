@@ -1,0 +1,12 @@
+Logo = './img/augist.png'
+DJ_name = 'Augist'
+Preferred_name = 'Kaitlyn'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['Bass', 'Future', 'Electro', 'Tech House']
+Secondary = ['Riddim', 'DnB']
+
+[Social]
+Twitter = 'https://twitter.com/AugistBear'
