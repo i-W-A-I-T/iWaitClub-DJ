@@ -1,0 +1,12 @@
+Logo = './img/khaliber.png'
+DJ_name = 'Khaliber'
+Preferred_name = 'Ben'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Melodic Bass' ,'Dubstep', 'DnB']
+Secondary = ['Electronicac', 'Hip Hop', 'House', 'Synthpop', 'R&B', 'Future Bass']
+
+[Social]
+Twitter = 'https://twitter.com/khaliber'
