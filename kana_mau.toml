@@ -1,0 +1,12 @@
+Logo = './img/kana_mau.png'
+DJ_name = 'KanaMau'
+Preferred_name = 'KanaMau'
+Pronouns = 'He/Him/Mau'
+Discord = ''
+
+[Genres]
+Primary = ['Bass House', 'Acid Bass', 'DnB', 'Trap', 'Dubstep']
+Secondary = ['Midtempo', 'Moombathon', 'Texcore', 'Deep House']
+
+[Social]
+Twitter = 'https://twitter.com/kanamaumau'
