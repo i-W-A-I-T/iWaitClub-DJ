@@ -1,0 +1,12 @@
+Logo = './img/dj_keppy.png'
+DJ_name = 'DJ Keppy'
+Preferred_name = 'Whisp'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Hardstyle', 'Rawstyle', 'Frencbcore', 'Happy Hardcore']
+Secondary = ['Classic Rock']
+
+[Social]
+Twitter = 'https://twitter.com/KeppyRoo'
