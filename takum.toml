@@ -1,0 +1,12 @@
+Logo = './img/takum.png'
+DJ_name = 'Takum'
+Preferred_name = 'Takum'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Progressive', 'Techno', 'Trance']
+Secondary = ['Psytrance', 'DnB']
+
+[Social]
+Twitter = 'https://twitter.com/TakumFox'
