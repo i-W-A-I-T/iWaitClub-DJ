@@ -1,0 +1,12 @@
+Logo = './img/risnor_wolf.png'
+DJ_name = 'RisnorWolf'
+Preferred_name = 'RisnorWolf'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Hardstyle']
+Secondary = ['Hard Trap', 'Heavy Bass', 'Happy Hardcore', 'Hardcore', 'Frenchcore', 'Hands Up', 'Techno']
+
+[Social]
+Twitter = 'https://twitter.com/RisnorWolf'
