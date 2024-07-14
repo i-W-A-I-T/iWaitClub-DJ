@@ -1,0 +1,12 @@
+Logo = './img/daegoth.png'
+DJ_name = 'DAEGOTH'
+Preferred_name = 'Rico'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Tearout']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/daegothdubz'
