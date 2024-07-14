@@ -1,0 +1,12 @@
+Logo = './img/wren_mouse.png'
+DJ_name = 'WrenMouse'
+Preferred_name = 'Wren'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Funky House', 'Nu Disco', 'Lquid DnB']
+Secondary = ['Electro Swing', 'House']
+
+[Social]
+Twitter = ''
