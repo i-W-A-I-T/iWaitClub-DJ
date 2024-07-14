@@ -1,0 +1,12 @@
+Logo = './img/big_salamander.png'
+DJ_name = 'Big Salamander'
+Preferred_name = 'Lucky'
+Pronouns = 'He/They'
+Discord = ''
+
+[Genres]
+Primary = ['Bass House']
+Secondary = ['Dubstep', 'Riddim', 'Midtempo']
+
+[Social]
+Twitter = 'https://twitter.com/luckydeetwenty'
