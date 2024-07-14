@@ -1,0 +1,12 @@
+Logo = './img/shrooky.png'
+DJ_name = 'Shrooky'
+Preferred_name = 'Shrooky'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Midtempo', 'Cyberpunk', 'Techno']
+Secondary = ['DnB, Dubstep', 'Garage', 'Bass house']
+
+[Social]
+Twitter = 'https://twitter.com/cyberwaff'
