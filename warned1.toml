@@ -1,0 +1,12 @@
+Logo = './img/warned1.png'
+DJ_name = 'WarneD1'
+Preferred_name = 'WarneD1'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['M.L.E.B.S.']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/WarnedOne'
