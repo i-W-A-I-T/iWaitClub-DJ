@@ -1,0 +1,12 @@
+Logo = './img/alasky.png'
+DJ_name = 'Alasky'
+Preferred_name = 'Alasky'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['DnB', 'Breaks', 'UK Bass', 'House']
+Secondary = ['All']
+
+[Social]
+Twitter = 'https://twitter.com/AlaskyMix'
