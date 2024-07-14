@@ -1,0 +1,12 @@
+Logo = './img/vairus.png'
+DJ_name = 'V[AI]RUS'
+Preferred_name = 'Iris'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Frenchcore']
+Secondary = ['Hardcore', 'Uptempo', 'UK Hardcore', 'J-Core', 'Psytrance', 'Hardstyle', 'Rawstyle']
+
+[Social]
+Twitter = 'https://twitter.com/v_ai_rus'
