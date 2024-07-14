@@ -1,0 +1,12 @@
+Logo = './img/zeebles.png'
+DJ_name = 'Zeebles'
+Preferred_name = 'Zeebles'
+Pronouns = 'He/They'
+Discord = ''
+
+[Genres]
+Primary = ['DnB']
+Secondary = ['Trance']
+
+[Social]
+Twitter = ''
