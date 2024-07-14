@@ -1,0 +1,12 @@
+Logo = './img/physwolf.png'
+DJ_name = 'Physwolf'
+Preferred_name = 'Physwolf'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Electropop', 'Electro house', 'Mainstage', 'Happy Hardcore', 'Frenchcore']
+Secondary = ['Any']
+
+[Social]
+Twitter = 'https://twitter.com/Physwolf'
