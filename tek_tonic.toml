@@ -1,0 +1,12 @@
+Logo = './img/tek_tonic.png'
+DJ_name = 'TekTonic'
+Preferred_name = 'Tek'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Funky House']
+Secondary = ['Bubblegum Dance']
+
+[Social]
+Twitter = 'https://twitter.com/tekcastpork'
