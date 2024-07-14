@@ -1,0 +1,12 @@
+Logo = './img/rukus.png'
+DJ_name = 'Rukus'
+Preferred_name = 'Rukus'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Dance', 'Electro', 'pop','Techno']
+Secondary = ['Hard Dance', 'IDM', 'Electronica', 'Deep Dubstep']
+
+[Social]
+Twitter = 'https://twitter.com/Rukus4d'
