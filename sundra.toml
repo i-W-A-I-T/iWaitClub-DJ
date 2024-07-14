@@ -1,0 +1,12 @@
+Logo = './img/sundra.png'
+DJ_name = 'Sundra'
+Preferred_name = 'Sundra'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Hardstyle']
+Secondary = ['Eurobeat', 'Dariacore/Hyper-Pop', 'DnB']
+
+[Social]
+Twitter = 'https://twitter.com/KMolresa'
