@@ -1,0 +1,12 @@
+Logo = './img/dj_peyotie.png'
+DJ_name = 'DJ Peyotie'
+Preferred_name = 'Peyotie'
+Pronouns = 'She/They'
+Discord = ''
+
+[Genres]
+Primary = ['Hardstyle', 'Hardcore', 'EDM']
+Secondary = ['Electro House']
+
+[Social]
+Twitter = 'https://twitter.com/Peyotie_Fandomz'
