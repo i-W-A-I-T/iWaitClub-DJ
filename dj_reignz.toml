@@ -1,0 +1,12 @@
+Logo = './img/dj_reignz.png'
+DJ_name = 'DJ REIGNZ'
+Preferred_name = 'Wolfie'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['EDM', 'House', 'Heavy Dubstep', 'Metalstep']
+Secondary = ['DnB', 'Hardstyle', 'Rawstyle']
+
+[Social]
+Twitter = 'https://twitter.com/dj_reignz5589'
