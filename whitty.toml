@@ -1,0 +1,12 @@
+Logo = './img/whitty.png'
+DJ_name = 'Whitty'
+Preferred_name = 'Whitty'
+Pronouns = 'They/Them'
+Discord = ''
+
+[Genres]
+Primary = ['Melodic Bass', 'Trance']
+Secondary = ['Multigenre']
+
+[Social]
+Twitter = 'https://twitter.com/Whitty_Cat'
