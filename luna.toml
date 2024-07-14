@@ -1,0 +1,12 @@
+Logo = './img/luna.png'
+DJ_name = 'Luna'
+Preferred_name = 'Luna'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['Psychedelic Trance']
+Secondary = ['Any']
+
+[Social]
+Twitter = 'https://twitter.com/LunaAberra'
