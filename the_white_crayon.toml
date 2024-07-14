@@ -1,0 +1,12 @@
+Logo = './img/the_white_crayon.png'
+DJ_name = 'TheWhiteCrayon'
+Preferred_name = 'TheWhiteCrayon'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Hardcore', 'Rawstyle', 'Uptempo']
+Secondary = ['Hardstyle']
+
+[Social]
+Twitter = 'https://twitter.com/The_WhiteCrayon'
