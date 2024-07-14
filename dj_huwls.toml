@@ -1,0 +1,12 @@
+Logo = './img/dj_huwls.png'
+DJ_name = 'DJ_Huwls'
+Preferred_name = 'Renegade'
+Pronouns = 'He/Him/They/Them'
+Discord = ''
+
+[Genres]
+Primary = ['Techno', 'Mainstage', 'Happy Hardcore']
+Secondary = ['Bass', 'Tech House']
+
+[Social]
+Twitter = 'https://twitter.com/Renegadelonewuf'
