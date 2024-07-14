@@ -1,0 +1,12 @@
+Logo = './img/dj_zide.png'
+DJ_name = 'DJ Zide'
+Preferred_name = 'Zider'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['DnB']
+Secondary = []
+
+[Social]
+Twitter = ''
