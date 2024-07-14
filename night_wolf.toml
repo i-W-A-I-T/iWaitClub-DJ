@@ -1,0 +1,12 @@
+Logo = './img/night_wolf.jpg'
+DJ_name = 'Night Wolf'
+Preferred_name = 'Night Wolf'
+Pronouns = 'He/Him/They'
+Discord = ''
+
+[Genres]
+Primary = ['Hardstyle']
+Secondary = ['Any']
+
+[Social]
+Twitter = ''
