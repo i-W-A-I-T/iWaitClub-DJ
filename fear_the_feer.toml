@@ -1,0 +1,12 @@
+Logo = './img/fear_the_feer.jpg'
+DJ_name = 'Fear The Feer'
+Preferred_name = 'Rave'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['House']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/RaveTheFeer'
