@@ -1,0 +1,12 @@
+Logo = './img/what_the_pup.png'
+DJ_name = 'What The PUP!'
+Preferred_name = 'Jayson'
+Pronouns = 'They/Them'
+Discord = ''
+
+[Genres]
+Primary = ['Dubstep', 'Trap']
+Secondary = ['Garage', 'House', 'Hip-Hop']
+
+[Social]
+Twitter = 'https://twitter.com/whatthepupstar'
