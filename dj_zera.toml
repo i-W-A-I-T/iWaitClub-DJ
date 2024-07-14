@@ -1,0 +1,12 @@
+Logo = ''
+DJ_name = 'DJ Zera'
+Preferred_name = 'Zera'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['Rock', 'Metal', 'Pop']
+Secondary = ['Synth Wave', 'Synth Pop']
+
+[Social]
+Twitter = 'https://twitter.com/Zera_Stargazer'
