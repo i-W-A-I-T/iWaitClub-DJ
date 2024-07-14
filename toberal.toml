@@ -1,0 +1,12 @@
+Logo = './img/toberal.png'
+DJ_name = 'Toberal'
+Preferred_name = 'Toberal'
+Pronouns = 'He/Him/They'
+Discord = ''
+
+[Genres]
+Primary = ['House']
+Secondary = ['Progressive Trance', 'Eurodance']
+
+[Social]
+Twitter = 'https://twitter.com/Toberal_Fox'
