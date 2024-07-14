@@ -1,0 +1,12 @@
+Logo = './img/pink.png'
+DJ_name = 'P I N K'
+Preferred_name = 'P I N K'
+Pronouns = 'He/Him/They'
+Discord = ''
+
+[Genres]
+Primary = ['Bass House', 'Tech House', 'Speed House', 'DnB']
+Secondary = ['Dubstep', 'Electro Swing']
+
+[Social]
+Twitter = 'https://twitter.com/XenoLePink'
