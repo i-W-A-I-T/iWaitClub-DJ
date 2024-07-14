@@ -1,0 +1,12 @@
+Logo = './img/spitfire.png'
+DJ_name = 'Spitfire'
+Preferred_name = 'Spitfire'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Electro', 'Dubstep', 'Experimental']
+Secondary = ['Complextro', 'Electro House', 'Progressive trance']
+
+[Social]
+Twitter = 'https://twitter.com/WolfSpitfire'
