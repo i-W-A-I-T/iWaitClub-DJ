@@ -1,0 +1,12 @@
+Logo = './img/2_piece.png'
+DJ_name = '2 Piece'
+Preferred_name = '2 Piece'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Tech', 'Latin House']
+Secondary = ['Techno', 'Hard Techno']
+
+[Social]
+Twitter = 'https://twitter.com/twopiecedior'
