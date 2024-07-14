@@ -1,0 +1,12 @@
+Logo = './img/tec_cen.png'
+DJ_name = 'Tec-Cen'
+Preferred_name = 'Tec-Cen'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Techno', 'Hardcore', 'DnB']
+Secondary = ['House', 'Funk', 'Hardgroove', 'Throwbacks']
+
+[Social]
+Twitter = ''
