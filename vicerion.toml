@@ -1,0 +1,12 @@
+Logo = './img/vicerion.png'
+DJ_name = 'Vicerion'
+Preferred_name = 'Vicerion'
+Pronouns = 'He/Him/They/Them'
+Discord = ''
+
+[Genres]
+Primary = ['Dnb']
+Secondary = ['Dubstep', 'Trap', 'House']
+
+[Social]
+Twitter = 'https://twitter.com/VicerionNoises'
