@@ -1,0 +1,12 @@
+Logo = './img/hydie.png'
+DJ_name = 'Hydie'
+Preferred_name = 'Hydie'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Mainstage']
+Secondary = ['Electro Swing', 'Trance']
+
+[Social]
+Twitter = 'https://twitter.com/nerdyhydra'
