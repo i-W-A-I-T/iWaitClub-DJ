@@ -5,8 +5,8 @@ Pronouns = 'She/Her'
 Discord = ''
 
 [Genres]
-Primary = []
-Secondary = []
+Primary = ['Chill House', 'Trippy Grooves', 'Filthy Funky Beats', 'Breaks', 'Bass']
+Secondary = ['Chill']
 
 [Social]
 Twitter = 'https://twitter.com/strawbsprotato'
