@@ -1,0 +1,12 @@
+Logo = './img/elicit.png'
+DJ_name = 'ELICIT'
+Preferred_name = 'Vixy'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['Heavy DnB', 'Metalstep', 'Deathstep', 'Hardstyle']
+Secondary = ['Rawstyle', 'Uptempo', 'Riddim']
+
+[Social]
+Twitter = 'https://twitter.com/vixytheyeen'
