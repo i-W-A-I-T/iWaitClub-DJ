@@ -1,0 +1,12 @@
+Logo = './img/hobnoxus.png'
+DJ_name = 'Hobnoxus'
+Preferred_name = 'Whisper'
+Pronouns = 'He/They'
+Discord = ''
+
+[Genres]
+Primary = ['Neurofunk', 'DnB']
+Secondary = ['Trap', 'Heavy Bass']
+
+[Social]
+Twitter = 'https://twitter.com/Whisperings9'
