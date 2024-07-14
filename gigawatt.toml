@@ -1,0 +1,12 @@
+Logo = './img/gigawatt.png'
+DJ_name = 'Gigawatt'
+Preferred_name = 'Gigawatt'
+Pronouns = 'He/Him/They/Them'
+Discord = ''
+
+[Genres]
+Primary = ['DnB']
+Secondary = ['Drumstep', 'Bass House', 'Phonk']
+
+[Social]
+Twitter = 'https://twitter.com/PepperKobold'
