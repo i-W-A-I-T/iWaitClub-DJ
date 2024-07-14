@@ -1,0 +1,12 @@
+Logo = './img/root_scastic.png'
+DJ_name = 'RootScastic'
+Preferred_name = 'Root'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['House', 'Pop', 'Future Funk', 'Trap', 'RnB']
+Secondary = ['80s Rock', 'Metal', 'Funk', 'PopPunk']
+
+[Social]
+Twitter = 'https://twitter.com/ScasticRacks'
