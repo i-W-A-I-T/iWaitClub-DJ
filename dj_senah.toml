@@ -1,0 +1,12 @@
+Logo = './img/dj_senah.png'
+DJ_name = 'DJ Senah'
+Preferred_name = 'Senah'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['DnB', 'House']
+Secondary = ['Any']
+
+[Social]
+Twitter = 'https://twitter.com/senahtaali'
