@@ -1,0 +1,12 @@
+Logo = './img/wolfdrone.png'
+DJ_name = 'WOLFDRONE'
+Preferred_name = 'Wolf'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Hip Hop', 'EDM', 'Dubstep']
+Secondary = ['Rock', 'R&B', 'Bass House']
+
+[Social]
+Twitter = 'https://twitter.com/WOLF_DRONE'
