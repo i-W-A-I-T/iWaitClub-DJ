@@ -1,0 +1,12 @@
+Logo = './img/veroxyde.png'
+DJ_name = 'Veroxyde'
+Preferred_name = 'Vero'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['Euphoric', 'Raw Hardstyle', 'Frenchcore']
+Secondary = ['DnB' , 'Chill']
+
+[Social]
+Twitter = 'https://twitter.com/V3roxyde'
