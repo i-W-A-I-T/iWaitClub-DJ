@@ -1,0 +1,12 @@
+Logo = './img/marti.png'
+DJ_name = 'Matri'
+Preferred_name = 'Matri'
+Pronouns = 'She/They'
+Discord = ''
+
+[Genres]
+Primary = ['Jungle']
+Secondary = ['Acid', 'DnB']
+
+[Social]
+Twitter = 'https://twitter.com/picccoooo'
