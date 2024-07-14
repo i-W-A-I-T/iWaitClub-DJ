@@ -1,0 +1,12 @@
+Logo = './img/midnight_city.png'
+DJ_name = 'Midnight City'
+Preferred_name = 'Midnight'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['DnB', 'Progressive House']
+Secondary = ['Disco House', 'Color Bass', 'Electro']
+
+[Social]
+Twitter = 'https://twitter.com/MidnightcityTV'
