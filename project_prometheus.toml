@@ -1,0 +1,12 @@
+Logo = './img/project_prometheus.png'
+DJ_name = 'Project Prometheus'
+Preferred_name = 'Raize'
+Pronouns = 'He/Him/They/Them'
+Discord = ''
+
+[Genres]
+Primary = ['Electro House', 'Electro', 'Progressive House']
+Secondary = []
+
+[Social]
+Twitter = ''
