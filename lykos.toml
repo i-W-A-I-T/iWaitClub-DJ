@@ -1,0 +1,12 @@
+Logo = './img/lykos.png'
+DJ_name = 'Lykos'
+Preferred_name = 'Lykos'
+Pronouns = 'They/Them'
+Discord = ''
+
+[Genres]
+Primary = ['House']
+Secondary = ['Italo Disco', 'Chicago House', '90s Hardcore Rave', 'Eurodance', 'Synthpop']
+
+[Social]
+Twitter = 'https://twitter.com/CanineLykos'
