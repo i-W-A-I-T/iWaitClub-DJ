@@ -1,0 +1,12 @@
+Logo = './img/roseinvr.png'
+DJ_name = 'Roseinvr'
+Preferred_name = 'Rose'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['J-Core', 'Techcore', 'Future Funk', 'Jazz House', 'Hip Hop', 'Psytrance', 'Tearout', 'Synthwave', 'Chiptune', 'Electro Swing']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/roseinvr'
