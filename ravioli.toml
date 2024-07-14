@@ -1,0 +1,12 @@
+Logo = './img/ravioli.png'
+DJ_name = 'Ravioli'
+Preferred_name = 'Rav'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['DnB', 'Midtempo']
+Secondary = ['Any']
+
+[Social]
+Twitter = 'https://twitter.com/_VRav_'
