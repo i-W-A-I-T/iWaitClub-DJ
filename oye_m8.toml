@@ -1,0 +1,12 @@
+Logo = './img/oye_m8.png'
+DJ_name = 'OyeM8'
+Preferred_name = 'OyeM8'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['House', 'Electro Pop', 'UK Hardcore']
+Secondary = ['Big room', 'Trance', 'Hard-Style']
+
+[Social]
+Twitter = 'https://twitter.com/ImaGunnerVII'
