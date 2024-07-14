@@ -1,0 +1,12 @@
+Logo = './img/sebris.png'
+DJ_name = 'Sebris'
+Preferred_name = 'Sebris'
+Pronouns = 'Any'
+Discord = ''
+
+[Genres]
+Primary = ['Electronic']
+Secondary = ['Any']
+
+[Social]
+Twitter = 'https://twitter.com/SebrisKiba'
