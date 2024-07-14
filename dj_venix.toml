@@ -1,0 +1,12 @@
+Logo = './img/dj_venix.png'
+DJ_name = 'Dj Venix'
+Preferred_name = 'Venny'
+Pronouns = 'She/Her'
+Discord = ''
+
+[Genres]
+Primary = ['Dubstep', 'Metalstep', 'Melodic Dubstep', 'Riddim']
+Secondary = []
+
+[Social]
+Twitter = 'https://twitter.com/VennyTheHobkin'
