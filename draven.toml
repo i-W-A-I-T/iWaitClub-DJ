@@ -1,0 +1,12 @@
+Logo = './img/draven.png'
+DJ_name = 'Draven'
+Preferred_name = 'Draven'
+Pronouns = 'He/Him'
+Discord = ''
+
+[Genres]
+Primary = ['Dubstep', 'Bass House']
+Secondary = ['Midtempo', 'Color Bass', 'Riddem', 'Trap']
+
+[Social]
+Twitter = 'https://twitter.com/DravenVRC'
